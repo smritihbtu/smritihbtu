@@ -17,5 +17,5 @@
 - Data-Structure, Rest-API, JSON, JPA
 
 ### 📫 Contact Me
-- [LinkedIn]-(https://linkedin.com/in/johndoe)
+- [LinkedIn]-(https://www.linkedin.com/in/smriti-gupta-a3045b18b)
 - Email: smritihbtu2022@gmail.com

@@ -1,4 +1,4 @@
-## 👋 Hi I'm Smriti Gupta
+## 👋 Hi! I'm Smriti Gupta
 
 # Senior Software Engineer | Java Backend Developer | Gen AI | LLM
 

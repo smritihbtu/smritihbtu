@@ -1,6 +1,7 @@
-## Hi I'm Smriti Gupta 👋
+## 👋 Hi I'm Smriti Gupta
 
-# 💫 About Me:
+# Senior Software Engineer | Java Backend Developer | Gen AI | LLM
+
 Backend Software Engineer with 4+ years of experience designing and building scalable, high-performance applications using Java, Spring Boot, and microservices architecture. <br>Skilled in developing RESTful APIs, distributed systems, and optimizing database performance using MySQL/PostgreSQL. <br>Hands-on experience with Docker, CI/CD pipelines (Jenkins, GitHub Actions), and cloud-ready deployments. <br>Proficient in event-driven architecture, system design (HLD/LLD), and building reliable, production-grade backend systems, with exposure to Generative AI integration (LLMs, OpenAI APIs).
 
 
